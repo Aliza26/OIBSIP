@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="UnitsOfLength">Length Units</string>
+    <string name="UnitsOfMass">Mass Units</string>
+    <string name="UnitsOfTime">Time Units</string>
+    <string name="UnitsOfVolume">Volume Units</string>
+    <string name="Money">money Converter</string>
+    <string name="UnitsOfAngle">angle Units</string>
+    <string name="percentAndCGPA">percentage CGPA conversion</string>
+</resources>
